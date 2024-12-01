@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "parcel ./index.html --public-url ./",
     "format": "prettier --write .",
+    "prebuild": "prettier --check .",
     "test": "jest",
     "build": "parcel build --public-url . --no-source-maps index.html"
   },
