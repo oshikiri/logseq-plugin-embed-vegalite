@@ -33,10 +33,10 @@ Embed [Vega-Lite](https://vega.github.io/vega-lite/docs/) graphics to Logseq not
 
 ![screenshot](./readme/example.png)
 
-- `myData`
-- `datum` contains
-  - [BlockEntity](https://logseq.github.io/plugins/interfaces/BlockEntity.html)
-  - and `ext` field (See `db/parse.ts`)
+Notes:
+
+- `datum` is basically [BlockEntity](https://logseq.github.io/plugins/interfaces/BlockEntity.html) and it has extended field `ext` (See `db/parse.ts`)
+- You can use [named data sources of Vega-Lite](https://vega.github.io/vega-lite/docs/data.html#named) as the above `myData`
 
 ## License
 
