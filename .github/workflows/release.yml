@@ -2,6 +2,8 @@ name: Release plugin
 
 on:
   push:
+    tags:
+      - "*"
 
 env:
   PLUGIN_NAME: logseq-plugin-embed-vegalite
