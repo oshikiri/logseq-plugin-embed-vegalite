@@ -31,7 +31,7 @@ Embed [Vega-Lite](https://vega.github.io/vega-lite/docs/) graphics to Logseq not
     ```
 ````
 
-![screenshot](./readme/example.png)
+![screenshot](./demo.png)
 
 Notes:
 
