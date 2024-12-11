@@ -1,6 +1,6 @@
 {
   "name": "logseq-plugin-embed-vegalite",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Embed vega-lite graph to logseq notes",
   "author": "oshikiri",
   "license": "MIT",
