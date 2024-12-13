@@ -38,6 +38,8 @@ Notes:
 - `datum` is basically [BlockEntity](https://logseq.github.io/plugins/interfaces/BlockEntity.html) and it has extended field `ext` (See `db/parse.ts`)
 - You can use [named data sources of Vega-Lite](https://vega.github.io/vega-lite/docs/data.html#named) as the above `myData`
 
+See [cookbook](./examples/) for more examples.
+
 ## License
 
 MIT
